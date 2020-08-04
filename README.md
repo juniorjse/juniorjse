@@ -9,7 +9,7 @@ Sou apaixonado por resolver problemas utilizando a programação.
 Sou Developer :computer:
 
  Estou me graduando em Ciência da Computação na Universidade Federal de Campina Grande.
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em projetos com Python3
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos de software.
  <br/> :blush: &nbsp; Posso te ajudar com lógica de programação, algoritimos e desenvolvimento web.
  <br/> :computer: &nbsp; Minha stack: Python3, Java e JavaScript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias; games: Free Fire, Tricky Tower, Dead by Daylight.
