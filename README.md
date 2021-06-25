@@ -1,5 +1,4 @@
-Template básico:
-<img width="auto" src="https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/github-universe.jpg?itok=lwRZddXA">
+<img width="auto" src="https://miro.medium.com/max/1838/1*4q1rzioc4wD3z0w-Hk9hRg.jpeg">
 
 
 # Junior Silva
