@@ -5,7 +5,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou Developer :computer:
+Sou developer :computer:
 
  Estou me graduando em Ciência da Computação na Universidade Federal de Campina Grande.
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos de software.
