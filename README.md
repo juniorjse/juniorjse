@@ -1,4 +1,3 @@
-<img width="auto" src="https://cdn.wallpapersafari.com/81/10/z7MWHv.jpg">
 
 
 # Junior Silva
