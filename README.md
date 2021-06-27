@@ -1,4 +1,4 @@
-<img width="auto" src="https://miro.medium.com/max/1838/1*4q1rzioc4wD3z0w-Hk9hRg.jpeg">
+<img width="auto" src="https://cdn.wallpapersafari.com/81/10/z7MWHv.jpg">
 
 
 # Junior Silva
