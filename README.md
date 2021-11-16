@@ -1,5 +1,3 @@
-
-
 # Junior Silva
 
 ## Olá pessoal 👋
