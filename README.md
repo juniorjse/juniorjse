@@ -14,11 +14,17 @@
 [<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jr_silvva" height="23" title="Instagram" />](https://www.instagram.com/jr_silvva/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="23" title="Gmail" />](mailto:junior.silva@ccc.ufcg.edu.br)
 
-#### 📈 Stats:
-<div>
-  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=juniorjse&&count_private=trueshow_icons=true,css&layout=compact&theme=material-palenight"/>
-  <img align="rihgt"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorjse&count_private=true&layout=compact&theme=material-palenight"/>
-</div>
+
+### :zap: GitHub Stats
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api/top-langs/?username=ereshzealous&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=ereshzealous&hide=html&layout=compact&theme=buefy"/></td>
+    </tr>   
+  </table>
+</center>
 
 <h4 align="center"> :computer: Languages and Tools :hammer:: </h4>
 <img align="left" alt="Java" width="26px" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" />
