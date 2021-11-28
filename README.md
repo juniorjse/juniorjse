@@ -16,8 +16,8 @@
 
 #### 📈 Stats:
 <div>
-  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=juniorjse&&count_private=trueshow_icons=true,css&layout=compact&theme=material-palenight"/>
-  <img align="rihgt"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorjse&count_private=true&layout=compact&theme=material-palenight"/>
+  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=MarcosDaNight&&count_private=trueshow_icons=true,css&layout=compact&theme=material-palenight"/>
+  <img align="rihgt"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDaNight&count_private=true&layout=compact&theme=material-palenight"/>
 </div>
 
 <h4 align="center"> :computer: Languages and Tools :hammer:: </h4>
