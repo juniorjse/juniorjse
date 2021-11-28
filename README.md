@@ -15,16 +15,11 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="23" title="Gmail" />](mailto:junior.silva@ccc.ufcg.edu.br)
 
 
-### :zap: GitHub Stats
-
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.juniorjse.vercel.app/api/top-langs/?username=juniorjse&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.juniorjse.vercel.app/api?username=juniorjse&hide=html&layout=compact&theme=buefy"/></td>
-    </tr>   
-  </table>
-</center>
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorjse&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorjse&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <h4 align="center"> :computer: Languages and Tools :hammer:: </h4>
 <img align="left" alt="Java" width="26px" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" />
