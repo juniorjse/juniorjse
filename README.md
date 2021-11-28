@@ -20,8 +20,8 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api/top-langs/?username=ereshzealous&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=ereshzealous&hide=html&layout=compact&theme=buefy"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.juniorjse.vercel.app/api/top-langs/?username=juniorjse&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.juniorjse.vercel.app/api?username=juniorjse&hide=html&layout=compact&theme=buefy"/></td>
     </tr>   
   </table>
 </center>
