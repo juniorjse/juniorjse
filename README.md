@@ -1,11 +1,11 @@
 ## <img src="https://i.pinimg.com/originals/8d/6c/82/8d6c820649720da9f7ce471c8a3fe906.gif" width="40"> Hi, I'm Junior Silva 
 <img align="right" alt="GIF" src="https://www.icegif.com/wp-content/uploads/baby-yoda-bye-bye-icegif.gif" width="350" >
  
- 🔭 I am a undergraduate student in Computer Science
+ 🖥️ I am a undergraduate student in Computer Science
  
- 🌱 I'm currently studying FrontEnd.
+ 👨‍💻 I'm currently studying FrontEnd.
  
- 👯 I am looking to collaborate on open source projects and subjects that can expand / improve my knowledge
+ 📈 I am looking to collaborate on open source projects and subjects that can expand / improve my knowledge
  
  #### 📫 How to reach me: 
  
