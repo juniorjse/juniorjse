@@ -1,12 +1,9 @@
 <h2> Hi! I'm Junior <img src="https://media4.giphy.com/media/fCU3BJLzRMEZpWm69v/giphy.gif?cid=ecf05e47o4x9iqgu627icc79845fsqmairv5b1mm2839ucqi&rid=giphy.gif&ct=s" width="50"></h2>
 
-🖥️ I am a undergraduate student in Computer Science
+<p>🖥️ I'm a Computer Science student at the Federal University of Campina Grande (UFCG) in Brazil in the fourth semester. I'm looking to collaborate on open source projects and subjects that can expand / improve my knowledge.<p>
 
-👨‍💻 I'm currently studying FrontEnd.
-
-📈 I am looking to collaborate on open source projects and subjects that can expand / improve my knowledge
-
-<img align="right" alt="GIF" src="https://www.icegif.com/wp-content/uploads/baby-yoda-bye-bye-icegif.gif" width="250" >
+<img align="right" alt="GIF"
+src="https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47fbatjns24n4t0t30xvy258gxll0fiwewptb4h073&rid=giphy.gif&ct=s" width="250" >
 
  #### 📫 How to reach me: 
 
@@ -21,9 +18,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorjse&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
-<h4 align="keft"> :computer: Languages and Tools :hammer:: </h4>
-<img align="left" alt="Java" width="26px" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" />
-<img align="left" alt="Python" width="26px" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-python-programming-language-icon-by-vexels.png" />
+```Python
+Junior = {
+  code = ["Python", "Java"],
+  learning = ["FrontEnd"]
+}
+```
+<br>
+
  
 <!--
 https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=Red
