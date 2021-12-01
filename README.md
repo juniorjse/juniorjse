@@ -3,7 +3,7 @@
  
  🖥️ I am a undergraduate student in Computer Science
  
- 👨‍💻 I'm currently studying FrontEnd.
+ 👨‍💻 I'm currently studying FullStack.
  
  📈 I am looking to collaborate on open source projects and subjects that can expand / improve my knowledge
  
