@@ -1,4 +1,4 @@
-<h2> Hi! I'm Rodrigo <img src="https://media4.giphy.com/media/fCU3BJLzRMEZpWm69v/giphy.gif?cid=ecf05e47o4x9iqgu627icc79845fsqmairv5b1mm2839ucqi&rid=giphy.gif&ct=s" width="50"></h2>
+<h2> Hi! I'm Junior <img src="https://media4.giphy.com/media/fCU3BJLzRMEZpWm69v/giphy.gif?cid=ecf05e47o4x9iqgu627icc79845fsqmairv5b1mm2839ucqi&rid=giphy.gif&ct=s" width="50"></h2>
 
 🖥️ I am a undergraduate student in Computer Science
 
