@@ -1,14 +1,12 @@
-## <img src="https://media4.giphy.com/media/fCU3BJLzRMEZpWm69v/giphy.gif?cid=ecf05e47o4x9iqgu627icc79845fsqmairv5b1mm2839ucqi&rid=giphy.gif&ct=s" width="50"> Hi, I'm Junior Silva
-
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47fbatjns24n4t0t30xvy258gxll0fiwewptb4h073&rid=giphy.gif&ct=s" width="250" >
+<h2> Hi! I'm Junior <img src="https://media4.giphy.com/media/fCU3BJLzRMEZpWm69v/giphy.gif?cid=ecf05e47o4x9iqgu627icc79845fsqmairv5b1mm2839ucqi&rid=giphy.gif&ct=s" width="50"></h2>
 
 🖥️ I am a undergraduate student in Computer Science
 
 👨‍💻 I'm currently studying FrontEnd.
 
 📈 I am looking to collaborate on open source projects and subjects that can expand / improve my knowledge
-e
 
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47fbatjns24n4t0t30xvy258gxll0fiwewptb4h073&rid=giphy.gif&ct=s" width="250" >
 
  #### 📫 How to reach me: 
 
@@ -16,14 +14,16 @@ e
 [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/junior-j-silva/" height="23" title="LinkedIn" />](https://www.linkedin.com/in/junior-j-silva/)
 [<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jr_silvva" height="23" title="Instagram" />](https://www.instagram.com/jr_silvva/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="23" title="Gmail" />](mailto:junior.silva@ccc.ufcg.edu.br)
+
 <div align="left">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/juniorjse">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorjse&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorjse&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<h4 align="center"> :computer: Languages and Tools :hammer:: </h4>
-<img align="center" alt="Java" width="26px" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" />
-<img align="center" alt="Python" width="26px" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-python-programming-language-icon-by-vexels.png" />
+ 
+<h4 align="keft"> :computer: Languages and Tools :hammer:: </h4>
+<img align="left" alt="Java" width="26px" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" />
+<img align="left" alt="Python" width="26px" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-python-programming-language-icon-by-vexels.png" />
  
 <!--
 https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=Red
