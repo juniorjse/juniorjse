@@ -19,7 +19,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorjse&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <h4 align="center"> :computer: Languages and Tools :hammer:: </h4>
-<img align="left" alt="Java" width="26px" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" />
+<img align="center" alt="Java" width="26px" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" />
 <img align="left" alt="Python" width="26px" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-python-programming-language-icon-by-vexels.png" />
  
 <!--
