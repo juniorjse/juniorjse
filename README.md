@@ -1,5 +1,5 @@
 ## <img src="https://media.giphy.com/media/Mn0PsxMyaoXRu/giphy.gif" width="40"> Hi, I'm Junior Silva 
-<img align="right" alt="GIF" src="https://www.icegif.com/wp-content/uploads/baby-yoda-bye-bye-icegif.gif" width="350" >
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Mn0PsxMyaoXRu/giphy.gif" width="350" >
  
  🖥️ I am a undergraduate student in Computer Science.
  
