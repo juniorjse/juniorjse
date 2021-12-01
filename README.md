@@ -12,11 +12,6 @@ src="https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47fba
 [<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jr_silvva" height="23" title="Instagram" />](https://www.instagram.com/jr_silvva/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="23" title="Gmail" />](mailto:junior.silva@ccc.ufcg.edu.br)
 
-<div align="left">
-  <a href="https://github.com/juniorjse">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorjse&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorjse&layout=compact&langs_count=7&theme=dark"/>
-</div>
  
 ```Python
 Junior = {
