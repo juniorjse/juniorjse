@@ -9,7 +9,7 @@ src="https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47fba
 ```Python
 Junior = {
   code = ["Python", "Java"],
-  learning = ["FrontEnd"]
+  learning = ["FullStack"]
 }
 ```
 <br>
