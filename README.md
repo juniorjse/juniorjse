@@ -1,5 +1,5 @@
 ## <img src="https://i.pinimg.com/originals/8d/6c/82/8d6c820649720da9f7ce471c8a3fe906.gif" width="40"> Hi, I'm Junior Silva 
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif?cid=790b7611b659fa1e43852c6d5028ccbfd06818ac14dee64f&rid=giphy.gif&ct=s" width="350" >
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif?cid=790b7611b659fa1e43852c6d5028ccbfd06818ac14dee64f&rid=giphy.gif&ct=s" width="250" >
 
 🖥️ I am a undergraduate student in Computer Science
 
