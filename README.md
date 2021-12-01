@@ -6,7 +6,7 @@
 
 📈 I am looking to collaborate on open source projects and subjects that can expand / improve my knowledge
 
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47fbatjns24n4t0t30xvy258gxll0fiwewptb4h073&rid=giphy.gif&ct=s" width="250" >
+<img align="right" alt="GIF" src="https://www.icegif.com/wp-content/uploads/baby-yoda-bye-bye-icegif.gif" width="250" >
 
  #### 📫 How to reach me: 
 
