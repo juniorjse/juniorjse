@@ -21,12 +21,9 @@ Junior = {
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="23" title="Gmail" />](mailto:junior.silva@ccc.ufcg.edu.br)
  
 <h3> My stats <img src="https://media.giphy.com/media/Mn0PsxMyaoXRu/giphy.gif" width="50" ></h3> 
-<div align="left">
-  <a href="https://github.com/juniorjse">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorjse&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=juniorjse&show_icons=true&theme=dark" />
+</a>
  
 <!--
 https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=Red
