@@ -4,12 +4,12 @@
 <img align="right" alt="GIF"
 src="https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47fbatjns24n4t0t30xvy258gxll0fiwewptb4h073&rid=giphy.gif&ct=s" width="250" >
 
-<p>🖥️ I'm a Computer Science student at the Federal University of Campina Grande (UFCG) in Brazil in the fourth semester. I'm looking to collaborate on open source projects and subjects that can expand / improve my knowledge.<p>
+<p>🖥️ I'm a Computer Science student at the Federal University of Campina Grande (UFCG) in Brazil in the fifth semester. I'm looking to collaborate on open source projects and subjects that can expand / improve my knowledge.<p>
   
 ```Python
 Junior = {
-  code = ["Python", "Java"],
-  learning = ["Frontend"]
+  code = ["Python", "Java", "JavaScript"],
+  learning = ["Desenvolvimento Web"]
 }
 ```
 <br>
