@@ -8,8 +8,8 @@ src="https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47fba
   
 ```Python
 Junior = {
-  code = ["Python", "Java", "JavaScript"],
-  learning = ["Desenvolvimento Web"]
+  code = ["Python", "Java", "JavaScript", "SQL", "React", ],
+  learning = ["Data Science"]
 }
 ```
 <br>
