@@ -21,7 +21,3 @@ Junior = {
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="23" title="Gmail" />](mailto:junior.silva@ccc.ufcg.edu.br)
  
 
-https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=Red
-https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bash/bash-original.svg
-https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg
-**juniorjse/juniorjse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
