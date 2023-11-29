@@ -20,14 +20,8 @@ Junior = {
 [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/junior-j-silva/" height="23" title="LinkedIn" />](https://www.linkedin.com/in/junior-j-silva/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="23" title="Gmail" />](mailto:junior.silva@ccc.ufcg.edu.br)
  
-<h3> My stats <img src="https://media.giphy.com/media/Mn0PsxMyaoXRu/giphy.gif" width="50" ></h3> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=juniorjse&show_icons=true&theme=dark" />
-</a>
- 
-<!--
+
 https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=Red
 https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bash/bash-original.svg
 https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg
 **juniorjse/juniorjse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
